@@ -16,6 +16,9 @@ The skills that I learned from this blog is *Communicating, Trying things even i
 
 Trying things even if you aren't sure what you would want to do. I say this because if I didn't tinker Kaboom, then I wasn't sure how I was going to really be able use phaser. And it never hurts to try something even if you don't think about it, it should still happen.
 
+### Summary
+
+I an overall very exicted to countine with my game with my garderning game and working my tool. And hoping in the future that in the future i can use to make a game about a gardening game for peole like Robert and people who also like games similar to cooking mama.
 
 [Next](entry02.md)
 
