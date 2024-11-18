@@ -39,3 +39,16 @@
 * Questions you still have
 * What you're going to try next
 -->
+
+### 11/18/24
+
+#### Experincing with Kaboom and watching videos about Kaboom and Learning with other people
+
+* First I would be watching videos about the Javascript while using kaboom on replit since that was what the youtube video that I was watching on that was working on.
+  
+  * I was watching a youtube video that was showing many ways about how to use kaboom to turn it into a game. which it also has 15 videos that was in a playlist [Kaboom Playlist](https://www.youtube.com/watch?v=iRXI6ThRJvM&list=PLNwtXgWIx3rgk68WwrykC7BIJ50kT6ZpS). This video has strongly helped me with understanding what type of games that can used while using kaboom.
+    
+  * Which after the video, I worked on using replit and then I would be basically copying word for from the video to see what type of things that I would be to make and not messing up my code at all. Making small changes like the background and even seeing if it is able for me to change the characters in the game.
+ 
+
+
