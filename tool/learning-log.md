@@ -53,9 +53,6 @@
 
 ### 1/6/25
 
-## Planning out who is doing whichever work to include it in our game
-___
-
 ### Beginning of the Plan 
 ---
   ### Kiara: the charcter movements/uses 5play
