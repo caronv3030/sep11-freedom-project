@@ -56,6 +56,13 @@
 ## Planning out who is doing whichever work to include it in our game
 ___
 
+### Beginning of the Plan 
+---
+  ### Kiara: the charcter movements/uses 5play
+  ### Robert: the games background/ making the plants 
+  ### Caron: Making the game seem more interesting and possibily make a small little game in the game at the same time.
+
+  ---
 #### Kiara 
  
 She is working on the charcter which she has accomplished and can be able to make the charcter move around using 5play. Her tool is used to make the gardener move with using the move but she wasn't able used the keys for the character manually. 
@@ -64,5 +71,3 @@ She is working on the charcter which she has accomplished and can be able to mak
 
 He is working on his tool but I was still trying to involve myself into the project but since we dont have a part to do what we are suppose to use to basicallt involve us into the game. But Robert is mostly going to add like little plants because the theme is gardening and for me, I'll see what I can do to be able to see what parts are needed to all work together in the project.
 
-### Plan Paper
----
