@@ -49,6 +49,20 @@
   * I was watching a youtube video that was showing many ways about how to use kaboom to turn it into a game. which it also has 15 videos that was in a playlist [Kaboom Playlist](https://www.youtube.com/watch?v=iRXI6ThRJvM&list=PLNwtXgWIx3rgk68WwrykC7BIJ50kT6ZpS). This video has strongly helped me with understanding what type of games that can used while using kaboom.
     
   * Which after the video, I worked on using replit and then I would be basically copying word for from the video to see what type of things that I would be to make and not messing up my code at all. Making small changes like the background and even seeing if it is able for me to change the characters in the game.
+
+
+### 1/6/25
+
+## Planning out who is doing whichever work to include it in our game
+___
+
+#### Kiara 
  
+She is working on the charcter which she has accomplished and can be able to make the charcter move around using 5play. Her tool is used to make the gardener move with using the move but she wasn't able used the keys for the character manually. 
 
+#### Robert and Caron
 
+He is working on his tool but I was still trying to involve myself into the project but since we dont have a part to do what we are suppose to use to basicallt involve us into the game. But Robert is mostly going to add like little plants because the theme is gardening and for me, I'll see what I can do to be able to see what parts are needed to all work together in the project.
+
+### Plan Paper
+---
