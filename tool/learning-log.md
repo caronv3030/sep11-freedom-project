@@ -53,8 +53,8 @@
 
 ### 1/6/25
 
-### Beginning of the Plan 
----
+### Beginning of the Plan
+
   ### Kiara: the charcter movements/uses 5play
   ### Robert: the games background/ making the plants 
   ### Caron: Making the game seem more interesting and possibily make a small little game in the game at the same time.
