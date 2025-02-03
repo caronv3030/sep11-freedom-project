@@ -1,7 +1,9 @@
 # Entry 3
-##### X/X/XX
+##### 2/3/25
 
-Text
+### Context/Background Of What I learned on Blog 2
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
