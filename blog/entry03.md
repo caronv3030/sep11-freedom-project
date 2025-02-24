@@ -22,6 +22,7 @@ I was close to giving up everytime I was struggling to find a video to help with
 ### Distractions 
 
 I can get distracted by little things which made me lose my focus on what I would need to get done really quickly which is pretty annoying but I would still be mangeable to get my work done when I don't look on my phone or anything else but just working and working with my headphones in with some classic jazz music.
+
 ---
 
 ## Takeaways
