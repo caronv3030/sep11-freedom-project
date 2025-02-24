@@ -7,6 +7,8 @@ I'm using my tool to help me use it for my freedom project that I'm working with
 
 I've been using my tool trying to make it useful and included to the game. I started on setting up on the game on [replit](https://replit.com/~) which I am going to continue to work on for a while more, just trying to to figure what else would the game need to be adding on for more things to do.
 
+My next steps from working on my tool is making a background which I was assigned to work during the mid-winter break which I was going to be able to do and work on and it was a bit complictaed to do because I wasn't sure how to use my tool to make a background but thankfully for sources like youtube, I was able to understand how to make a background while using Kaboom and getting a huge head start on how make my background for using Kaboom.
+
 ### Engineering Design Process (EDP)
 ---
 I would say that we are on the second stage, but slowly moving towards the third once we are able to discuss on how we are going to be able to combine our tools together since it seems that it may be a hard struggle for us but nothing in life will come easy. I will still be tinkering with [Kaboom](https://kaboomjs.com) while using replit for now. But hopefully by next time, I'll be able to be on the third stage of the process slowly building the process of a great gardening game.
@@ -20,10 +22,11 @@ I was close to giving up everytime I was struggling to find a video to help with
 ### Distractions 
 
 I can get distracted by little things which made me lose my focus on what I would need to get done really quickly which is pretty annoying but I would still be mangeable to get my work done when I don't look on my phone or anything else but just working and working with my headphones in with some classic jazz music.
+---
 
 ## Takeaways
----
-Soon Me, Kiara and Robert would be able to make the game together and we will talk about what our next big steps of the plan would be about. 
+
+Soon Me, Kiara and Robert would be able to make the game together and we will talk about what our next big steps of the plan would be about and I would be working more on my tool to get a better understanding of how I can make the tool more useful in the up-coming game. 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
