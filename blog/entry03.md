@@ -9,6 +9,15 @@ I've been using my tool trying to make it useful and included to the game. I sta
 
 My next steps from working on my tool is making a background which I was assigned to work during the mid-winter break which I was going to be able to do and work on and it was a bit complictaed to do because I wasn't sure how to use my tool to make a background but thankfully for sources like youtube, I was able to understand how to make a background while using Kaboom and getting a huge head start on how make my background for using Kaboom.
 
+Example code:
+```
+loadSprite("charcter", "sprites/character.png")
+  loadSprite("background", "sprites/background.png")
+add([
+  sprite("background")
+]);
+```
+
 ### Engineering Design Process (EDP)
 ---
 I would say that we are on the second stage, but slowly moving towards the third once we are able to discuss on how we are going to be able to combine our tools together since it seems that it may be a hard struggle for us but nothing in life will come easy. I will still be tinkering with [Kaboom](https://kaboomjs.com) while using replit for now. But hopefully by next time, I'll be able to be on the third stage of the process slowly building the process of a great gardening game.
