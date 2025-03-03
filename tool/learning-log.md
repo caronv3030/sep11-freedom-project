@@ -68,3 +68,27 @@ She is working on the charcter which she has accomplished and can be able to mak
 
 He is working on his tool but I was still trying to involve myself into the project but since we dont have a part to do what we are suppose to use to basicallt involve us into the game. But Robert is mostly going to add like little plants because the theme is gardening and for me, I'll see what I can do to be able to see what parts are needed to all work together in the project.
 
+### 3/2/25
+
+#### Sources
+  * [Yotube](https://www.youtube.com/watch?v=hgReGsh5xVU&t=433s)
+  * [Kaboom](https://kaboomjs.com/doc/setup)
+
+#### Example Code
+
+```
+loadSprite("charcter", "sprites/character.png")
+  loadSprite("background", "sprites/background.png")
+add([
+  sprite("background")
+]);
+```
+### Things that I had done
+  * Figured out how to make a background by using my tool
+  * Started to using the id instead of replit
+### Things that I will be doing in the future
+  * Helping my partners to add small details in needed for my help
+  * Making the background image (Planning it together to figure out how we would want it to look like)
+    
+
+
