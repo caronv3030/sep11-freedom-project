@@ -94,7 +94,7 @@ add([
 ### 3/7/25
 
 ### Sources
-  * [Youtube](https://www.youtube.com/watch?v=ASf0bzc2zq4) 
+  * [Youtube](https://www.youtube.com/watch?v=ASf0bzc2zq4) Watched a video from Chris in period 4th had made to help get more information how I can use kaboom codes for the game 
   * [Kaboom](https://kaboomjs.com/doc/setup)
   * [Background Image (Non-copyright)](https://plus.unsplash.com/premium_photo-1673141390230-8b4a3c3152b1?q=80&w=3173&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
