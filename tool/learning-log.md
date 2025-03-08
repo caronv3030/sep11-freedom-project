@@ -91,4 +91,27 @@ add([
   * Making the background image (Planning it together to figure out how we would want it to look like)
     
 
+### 3/7/25
 
+### Sources
+  * [Youtube](https://www.youtube.com/watch?v=ASf0bzc2zq4) 
+  * [Kaboom](https://kaboomjs.com/doc/setup)
+  * [Background Image (Non-copyright)](https://plus.unsplash.com/premium_photo-1673141390230-8b4a3c3152b1?q=80&w=3173&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+  However, I don't have a code for this learning log since i'm maining still working on the background which the code still won't really change much.
+
+  ### Code
+  ```
+loadSprite("charcter", "sprites/character.png")
+  loadSprite("background", "sprites/background.png")
+add([
+  sprite("background")
+]);
+```
+   
+### Things that I had done
+  * Discuss what things need to be made for the small details for the game
+  * Found a non-copyright image instead to input the image quicker with the kaboom code combined
+### Things that I would want to do when finished early with my part of the project
+  * Making a main menu before you play the game in the beginning
+  * Adding more things to make the game more interesting
