@@ -135,6 +135,6 @@ kaboom({
 ### Things that I had done
     * I decided to change the code for the background to be much for simpler code for me to paste onto the freeedom project game
 ### Things that I will do in the future
-    * I communicated with my groupmates about the project and we decided that I would start making levels instead of the main menu.
-    * Since my friend Chris, had finished with something similar to his project and I would be asking for his help while I'm learning with my tool.
+  * I communicated with my groupmates about the project and we decided that I would start making levels instead of the main menu.
+ * Since my friend Chris, had finished with something similar to his project and I would be asking for his help while I'm learning with my tool.
 
