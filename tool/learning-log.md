@@ -115,3 +115,26 @@ add([
 ### Things that I would want to do when finished early with my part of the project
   * Making a main menu before you play the game in the beginning
   * Adding more things to make the game more interesting
+
+### 3/17/25
+
+### Sources 
+* [Kaboom](https://kaboomjs.com/doc/setup)
+* [My friend, Chris (Period 4)](https://github.com/chrisr3403)
+* [Youtube Video Source](https://www.youtube.com/watch?v=a2NOb7NU93o&t=15s_)
+
+### Example code for the level
+```
+import kaboom from "kaboom"
+
+kaboom({
+  background: [255,255,255],
+})
+```
+
+### Things that I had done
+    * I decided to change the code for the background to be much for simpler code for me to paste onto the freeedom project game
+### Things that I will do in the future
+    * I communicated with my groupmates about the project and we decided that I would start making levels instead of the main menu.
+    * Since my friend Chris, had finished with something similar to his project and I would be asking for his help while I'm learning with my tool.
+
