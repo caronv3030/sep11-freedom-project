@@ -124,7 +124,7 @@ add([
 * [Youtube Video Source](https://www.youtube.com/watch?v=a2NOb7NU93o&t=15s_)
 
 ### Example code for the level
-```
+```JS
 import kaboom from "kaboom"
 
 kaboom({
