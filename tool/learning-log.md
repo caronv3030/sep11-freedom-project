@@ -146,6 +146,8 @@ kaboom({
 * [Youtube Video for a simple level game using Kaboom](https://www.youtube.com/watch?v=jcoiEpzD3yc)
 * [Kaboom](https://kaboomjs.com/doc/setup)
 
+
+### Example Code for the Main menu using Kaboom
 ```JS
  // Initialize Kaboom
     kaboom();
