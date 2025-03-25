@@ -139,3 +139,53 @@ kaboom({
   * I communicated with my groupmates about the project and we decided that I would start making levels instead of the main menu.
  * Since my friend Chris, had finished with something similar to his project and I would be asking for his help while I'm learning with my tool.
 
+### 3/24/25
+
+### Sources
+* [Youtube Video](https://www.youtube.com/watch?v=wZpbTR7pYR0)
+* [Youtube Video for a simple level game using Kaboom](https://www.youtube.com/watch?v=jcoiEpzD3yc)
+* [Kaboom](https://kaboomjs.com/doc/setup)
+
+```JS
+ // Initialize Kaboom
+    kaboom();
+
+    // Main Menu Scene
+    scene("mainMenu", () => {
+      // Add title text
+      const title = text("Main Menu", { size: 48, color: rgb(0, 0, 1) });
+      title.pos(width() / 2 - title.width / 2, height() / 3);
+      
+      // Add Start Game Button text
+      const startButton = text("Press Enter to Start", { size: 24 });
+      startButton.pos(width() / 2 - startButton.width / 2, height() / 2);
+
+      // Start the game when the player presses Enter
+      keyPress("enter", () => {
+        go("game"); // Transition to "game" scene
+      });
+    });
+
+    // Game Scene (where the game will take place)
+    scene("game", () => {
+      // This is where the actual game happens. 
+      // For now, we'll just show a "Game Started" message.
+      const gameStarted = text("Game Started!", { size: 32 });
+      gameStarted.pos(width() / 2 - gameStarted.width / 2, height() / 2);
+    });
+
+    // Start the game with the main menu
+    go("mainMenu");
+```
+
+
+### Things that I had done
+---
+* Communicate with one of my partner, Kiara and talked about changing the parts of the jobs
+    * Kiara is now in charge with the background and now I just work on the main menu and the background at the same time.
+    * (This was decided because turned out she already has a background in her testers and it seems way better and easier to do and mine is mostly just for the main menu for the game)
+ * Still working on the code for the main menu for our game, slowly working on the screen for our title
+### Things that I will do in the future
+---
+* Hopefully be done by the next time I do the blog or learning log
+* Talk about how we are going to be able to put all our tools together to make it all work out
