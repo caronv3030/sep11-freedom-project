@@ -10,7 +10,7 @@ For my project, I chose to independently study **Kaboom** in order to help me ma
 
 [Product](https://kiaram2249.github.io/Garden-freedom-project/mainmenu.html)
 
-[Presentation](https://docs.google.com/presentation/d/1iGfX6hZh018YFwxEAZ8xV8wcospvQID-7bvGbmeqt_k/edit?slide=id.g35c5b9d7fdc_1_16#slide=id.g35c5b9d7fdc_1_16)
+[Presentation](https://docs.google.com/presentation/d/1iGfX6hZh018YFwxEAZ8xV8wcospvQID-7bvGbmeqt_k/edit?slide=id.g35c5b9d7fdc_0_30#slide=id.g35c5b9d7fdc_0_30)
 
 ## Implications
 ##### PROS
